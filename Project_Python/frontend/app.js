@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://ten-backend.onrender.com/api";
+const API_BASE_URL = "https://web-demo-backend.onrender.com/api";
 
 // Lấy danh sách phòng từ backend
 async function loadRooms() {
@@ -96,3 +96,4 @@ document.addEventListener("DOMContentLoaded", () => {
 // }
 
 ////////// test ////////////
+
